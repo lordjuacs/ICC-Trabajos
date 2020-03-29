@@ -1,0 +1,3 @@
+Juan Perez ,CEO ,3000
+Morris Lee ,CIO ,4500
+Jorge Rosas ,CTO ,10251

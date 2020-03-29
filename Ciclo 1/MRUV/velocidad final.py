@@ -1,0 +1,5 @@
+v_inicial = float(input("Ingrese velocidad inicial: "))
+tiempo = float(input("Ingrese tiempo: "))
+aceleracion = float(input("Ingrese aceleracion: "))
+v_final = v_inicial+(aceleracion*tiempo)
+print("Velocidad final:",v_final)

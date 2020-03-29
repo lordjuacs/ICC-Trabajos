@@ -1,0 +1,5 @@
+lado_1 = float(input("Ingrese medida lado 1: "))
+lado_2 = float(input("Ingrese medida lado 2: "))
+lado_3 = float(input("Ingrese medida lado 3: "))
+si_triangulo = (lado_1 + lado_2 > lado_3) and (lado_1 + lado_3 > lado_2) and (lado_2 + lado_3 > lado_1)
+print("NO"*(not(si_triangulo)),"ES TRIANGULO VALIDO")

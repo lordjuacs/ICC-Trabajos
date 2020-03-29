@@ -1,0 +1,1 @@
+{'jose.porres': '470', 'joaquin.ramirez': '475', 'paolo.morey': '0', 'heider.sanchez': '9999', 'diego.ortiz': '0', 'ernesto.cuadros': '0', 'xyoby.chavez': '480', 'macarena.oyague': '-800', 'adriana.roque': '455', 'jose.fiestas': '9998', 'dylan.ames': '390', 'patricio.vega': '505', 'jaime': '445'}
